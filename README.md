@@ -131,13 +131,9 @@ If you are not using livenet, you should comment chain configurations at `hardha
 
 To run all the unitary tests, run:
 
-## Address deployed to the Polygon Mainnet
+## Address deployed to the Sepolia Testnet
 
-POLYGON -> 0x37a9594B9741Cc5eE7Fd41C86Cc6C56B01d31e5A
-
-## Address deployed to the Mumbai Testnet
-
-MUMBAI -> 0xfcf05f746cb9e4643a2db20b80f94dda07693d39
+SEPOLIA -> 0x20B1752b1374bAad268B4c94DC7484aBdbBA9a01
 
 ```bash
 yarn test
